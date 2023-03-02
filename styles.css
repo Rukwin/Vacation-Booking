@@ -1,0 +1,99 @@
+*{
+	margin:0;
+	padding: 0;
+
+}
+
+body{
+	text-align: center;
+	background-color: #cadefc60;
+}
+
+h1{
+	font-size: 50px;
+	color: #424874;
+}
+
+p{
+	color: #424874;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+
+.button{
+	background-color: #defcf9;
+	border: none;
+	padding: 10px;
+	color: #cca8e9;
+	border-radius: 50px;
+}	
+
+button:hover{
+	background-color: #cca8e9;
+	color: #defcf9;
+}
+
+header{
+	padding: 10px;
+	background: linear-gradient(45deg,#cadefc,#cca8e9);
+}
+
+header h1{
+	color: #defcf9;
+}
+
+nav{
+	background-color: #defcf9;
+}
+
+nav a{
+	text-decoration: none;
+	padding: 10px 25px;
+	display: inline-block;
+	color: #cca8e9;
+	font-size: 18px;
+}
+nav a:hover{
+	background-color: #cca8e9;
+	color: #defcf9;
+}
+
+.Home-section{
+	padding: 100px;
+}
+
+.Packages-section{
+	padding: 100px;
+}
+
+.Packages-section figure{
+	box-shadow: 0 0 10px black;
+	width: 300px;
+	display: inline-block;
+	margin: 20px;
+	padding: 10px;
+}
+
+.Packages-section figure img{
+	width: 100%;
+}
+
+.Packages-section figure figcaption{
+	font-size: 30px;
+	padding: 5px;
+}
+
+.Packages-section figure p{
+	font-size: 16px;
+}
+
+footer{
+	background: linear-gradient(45deg,#cadefc,#cca8e9);
+	padding: 16px;
+	color: #defcf9;
+}
+
+footer a{
+	text-decoration: none;
+	color: #defcf9;
+}
