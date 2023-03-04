@@ -26,6 +26,7 @@ p{
 	padding: 10px;
 	color: #cca8e9;
 	border-radius: 50px;
+	transition: all 0.75s
 }	
 
 button:hover{
