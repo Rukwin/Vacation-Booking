@@ -60,6 +60,14 @@ nav a:hover{
 	color: #defcf9;
 }
 
+img{
+	opacity:0.5;
+}
+
+img:hover{
+	opacity:1;
+}
+
 .Home-section{
 	padding: 100px;
 }
