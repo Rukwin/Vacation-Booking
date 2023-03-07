@@ -61,12 +61,12 @@ nav a:hover{
 }
 
 img{
-	opacity:0.5;
+	opacity: 0.5;
 	transition: all 0.5s;
 }
 
 img:hover{
-	opacity:1;
+	opacity: 1;
 }
 
 .Home-section{
